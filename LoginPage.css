@@ -1,0 +1,22 @@
+body{
+    background-color: bisque;
+    display: flex;
+    justify-content: center;
+    margin: 200px;
+}
+
+.container{
+    padding: 60px;
+    background-color: plum;
+    box-shadow: 0 2px 4px;
+    align-items: center;
+    font-size: larger;
+}
+
+.action:hover{
+    background-color: aqua;
+}
+
+.create:hover{
+    background-color: aquamarine;
+}

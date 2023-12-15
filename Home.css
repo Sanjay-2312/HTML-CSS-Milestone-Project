@@ -1,0 +1,17 @@
+.colm1{
+    background-color: antiquewhite;
+}
+
+.colm2{
+    background-color: aqua;
+}
+
+.colm1 img{
+    width: 545px;
+    height: 565px;
+    opacity: 75%;
+}
+
+.colm1 img:hover{
+    opacity: 100%;
+}
